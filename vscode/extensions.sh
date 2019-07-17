@@ -1,8 +1,9 @@
+code --install-extension ms-vscode.notepadplusplus-keybindings
 code --install-extension esbenp.prettier-vscode
 code --install-extension eamodio.gitlens
+code --install-extension zhuangtongfa.Material-theme
 
 #Python Extensions
-code --install-extension zhuangtongfa.Material-theme
 code --install-extension ms-python.python
 code --install-extension njpwerner.autodocstring
 code --install-extension formulahendry.code-runner
