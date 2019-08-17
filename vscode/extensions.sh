@@ -11,3 +11,4 @@ code --install-extension aaron-bond.better-comments
 
 #Rust Extensions
 code --install-extension rust-lang.rust
+code --install-extension better-toml
