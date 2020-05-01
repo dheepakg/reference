@@ -1,0 +1,11 @@
+aaron-bond.better-comments
+brainfit.vscode-importmagic
+esbenp.prettier-vscode
+ms-python.anaconda-extension-pack
+ms-python.python
+ms-vscode.notepadplusplus-keybindings
+njpwerner.autodocstring
+pejmannikram.vscode-auto-scroll
+redhat.vscode-yaml
+shd101wyy.markdown-preview-enhanced
+vscode-icons-team.vscode-icons
